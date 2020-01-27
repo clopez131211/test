@@ -1,1 +1,1 @@
-A simple Hotel Resort website which can filter results and link to seperate parts of the page. 
+A simple site showing information about llamas
